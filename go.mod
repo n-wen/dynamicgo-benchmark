@@ -1,4 +1,4 @@
-module luago-benchmark
+module dynamicgo-benchmark
 
 go 1.13
 
@@ -7,5 +7,4 @@ require (
 	github.com/gin-contrib/pprof v1.3.0
 	github.com/gin-gonic/gin v1.7.1
 	github.com/imroc/req v0.3.0
-	github.com/rs/cors v1.7.0
 )
