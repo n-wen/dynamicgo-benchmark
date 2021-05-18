@@ -1,0 +1,1 @@
+javac ConcurrencyBench.java && java ConcurrencyBench
